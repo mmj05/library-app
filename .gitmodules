@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/mmj05/library-app-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/mmj05/library-app-backend.git
